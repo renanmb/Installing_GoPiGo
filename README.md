@@ -7,7 +7,7 @@ Originaly from the GoPiGo Repository from Github
 1- Clone the GoPiGo Repository from Github
   sudo git clone https://github.com/DexterInd/GoPiGo.git
   or
-  sudo git clone 
+  sudo git clone https://github.com/renanmb/Installing_GoPiGo.git
  
 2- Go to the Python folder
  cd GoPiGo/Software/Python/
